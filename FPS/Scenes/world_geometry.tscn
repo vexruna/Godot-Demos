@@ -1,0 +1,13 @@
+[gd_scene format=3 uid="uid://dbqb8qrbb2ywd"]
+
+[ext_resource type="PackedScene" uid="uid://d1j2os82skymr" path="res://Models/flatplane.glb" id="1_pecey"]
+
+[node name="WorldGeometry" type="Node3D" unique_id=81039829]
+
+[node name="DirectionalLight3D" type="DirectionalLight3D" parent="." unique_id=709412920]
+transform = Transform3D(-0.059268337, -0.7288535, 0.6820995, 0, 0.68330073, 0.73013705, -0.9982421, 0.043274008, -0.040498096, 0, 153.12595, 0)
+
+[node name="flatplane" parent="." unique_id=2092722348 instance=ExtResource("1_pecey")]
+
+[node name="Camera3D" type="Camera3D" parent="." unique_id=737378978]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 57.231323, 153.01497)
