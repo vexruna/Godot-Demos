@@ -7,7 +7,8 @@
 [node name="DirectionalLight3D" type="DirectionalLight3D" parent="." unique_id=709412920]
 transform = Transform3D(-0.059268337, -0.7288535, 0.6820995, 0, 0.68330073, 0.73013705, -0.9982421, 0.043274008, -0.040498096, 0, 153.12595, 0)
 
-[node name="flatplane" parent="." unique_id=2092722348 instance=ExtResource("1_pecey")]
-
 [node name="Camera3D" type="Camera3D" parent="." unique_id=737378978]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 57.231323, 153.01497)
+
+[node name="flatplane" parent="." unique_id=1482612307 instance=ExtResource("1_pecey")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 58.883453, 234.88002, 389.60577)
