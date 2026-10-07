@@ -13,7 +13,7 @@ config_version=5
 config/name="3D_FPS"
 run/main_scene="uid://dbqb8qrbb2ywd"
 config/features=PackedStringArray("4.7", "GL Compatibility")
-config/icon="res://icon.svg"
+config/icon="res://Textures/icon.svg"
 
 [display]
 
