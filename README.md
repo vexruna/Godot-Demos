@@ -18,3 +18,14 @@ Some of these are currently in development or haven't been started yet.
 
 # Contribute
 You are welcome to contribute to it by creating issues and submitting pull requests!
+
+# License
+This project is licensed under the Universal Permissive License (UPL), Version 1.0.
+
+You are free to use, copy, modify, distribute, sublicense, and commercially exploit the contents of this repository, including incorporating them into proprietary projects, subject to the terms of the UPL-1.0.
+
+The copyright notices and UPL reference must be retained in accordance with the license.
+
+For additional information about contributors to this project, see CONTRIBUTORS.md.
+
+Credit is encouraged. While the UPL-1.0 license does not require user-facing attribution beyond preservation of the applicable copyright and license notice, we encourage anyone who uses these projects to credit their original contributors where reasonably appropriate. Each project contains a CONTRIBUTORS.md file listing the people who contributed to it.
