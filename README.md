@@ -1,7 +1,9 @@
-# Intro
+# Godot-Demos
 Here you will find a collection of small tech demos of games in different genres.
 
-You may explore these for educational purposes.
+Each demo is supposed to be representative of a particular genre of a game at an MVP level of standard.
+
+The goal of this repository is to provide the Godot community with a collection of games that people can use to jumpstart development of their own games.
 
 # Status
 The list is non-exhaustive and it is currently in the process of being set up.
@@ -17,7 +19,9 @@ Some of these are currently in development or haven't been started yet.
 - 2D Point&Click Adventure
 
 # Contribute
-You are welcome to contribute to it by creating issues and submitting pull requests!
+You are welcome to contribute to this repo and demos by creating issues, making assets and submitting pull requests!
+When you make a contribution, write your name in the relevant `CONTRIBUTORS.md` located in the project directory.
+The root `CONTRIBUTORS.md` is an index of original creators of the projects.
 
 # License
 This project is licensed under the Universal Permissive License (UPL), Version 1.0.
